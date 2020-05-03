@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gerenciador de Eventos</string>
+    <string name="title_activity_login">Entrar</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Entrar</string>
+</resources>

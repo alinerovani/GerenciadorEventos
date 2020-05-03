@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5F94CD</color>
+    <color name="colorPrimaryDark">#36648B</color>
+    <color name="colorAccent">#5CACEE</color>
+    <color name="mensagemDeErro">#f87f76</color>
+    <color name="mensagemDeSucesso">#5dd879</color>
+    <color name="green">#008577</color>
+</resources>
